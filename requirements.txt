@@ -1,0 +1,8 @@
+langchain==0.0.352
+langchain_experimental==0.0.47
+matplotlib==3.8.1
+pandas==2.1.4
+protobuf==4.25.1
+seaborn==0.13.0
+streamlit==1.28.1
+google-generativeai==0.2.2
